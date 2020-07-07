@@ -1,0 +1,62 @@
+*{
+  overflow-x: hidden !important;
+  margin: 0;
+}
+.navbar
+{
+  background-color: grey;
+  display: block;
+  float: left;
+  text-align: center;
+  width:100%;
+  padding: 0.5%;
+
+}
+
+.example
+{
+  display: inline;
+}
+.fa{
+  font-size: 30px !important;
+}
+
+.s2{
+  padding-top: 10px;
+  margin:0px 800px 5px 0px;
+  font-family: FontAwesome;
+  font-style: normal;
+  font-weight: 400;
+  text-decoration: inherit;
+
+  font-size: 22px;
+  line-height:24px;
+  border:1px solid #ddd;
+  border-radius:4px;
+}
+.logo{
+  float:left;
+  padding: 1%;
+}
+.q{
+  padding: 1%;
+  font-size: 15px !important;
+  }
+.TeziKhan{
+  float: left;
+  padding: 1%;
+}
+.overall{
+  background-color: #F5F5F5;
+  padding: 0% 21%;
+}
+.tk{
+  box-sizing: border-box;
+  width: 100%;
+ border: 2px solid black;
+}
+.page{
+  box-sizing: border-box;
+  width: 100%;
+ border: 2px solid black;
+}
